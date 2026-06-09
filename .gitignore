@@ -1,0 +1,11 @@
+# Build output
+_book/
+gitbook-output/
+
+# Dependencies
+node_modules/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log

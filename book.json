@@ -1,0 +1,10 @@
+{
+  "title": "Debellum: Last Party",
+  "description": "A Web3 MOBA & Battle Royale — Gameplay and NFT Economy Guide",
+  "language": "en",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
+  "plugins": ["-search", "-lunr"]
+}
