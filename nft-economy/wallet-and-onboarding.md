@@ -31,7 +31,7 @@ Debellum's economy spans multiple blockchains, letting assets and the token oper
 | Chain | Role |
 |-------|------|
 | **Ethereum** | The base layer for high-value assets. |
-| **Immutable zkEVM** | Primary chain for game NFTs and the ACP token. |
+| **Immutable zkEVM** | Primary chain for game NFTs. |
 | **zkSync** | Low-cost L2 transactions. |
 | **BSC (Binance)** | Broad accessibility and liquidity. |
 | **Metis (Andromeda)** | Additional L2 support. |

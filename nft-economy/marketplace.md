@@ -21,7 +21,6 @@ The marketplace handles the tradeable NFT asset classes:
 - **Avatars** — identity NFTs.
 - **Skins** — cosmetic appearances.
 - **Hero Cards** — hero ownership proofs.
-- **Plant Flags** — objective cosmetics.
 
 Items carry **tradeability flags**, so the interface only lists assets that are meant to be traded.
 
@@ -49,7 +48,7 @@ The marketplace experience is woven through several in-game screens:
 
 ## Pricing and tokens
 
-Listings are priced in the relevant chain's currency or token. The marketplace recognizes balances across multiple tokens — including **ACP, ETH, IMX, USDT, and FATE** — so trades settle in the appropriate asset for the platform and chain involved.
+Listings are priced in the relevant chain's currency or token. The marketplace recognizes balances across multiple tokens — such as **ETH, IMX, and USDT** — so trades settle in the appropriate asset for the platform and chain involved.
 
 ## Trading and ownership sync
 

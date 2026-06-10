@@ -36,7 +36,6 @@ Signature skins are a special, high-quality crafting result with **fixed, premiu
 | **Skin** | Fragment Forge / premium skins | ERC-1155 skin NFT |
 | **Hero Card** | Hero ownership / progress | ERC-721 hero card NFT |
 | **Avatar (head)** | Account / cosmetic progress | ERC-721 avatar NFT |
-| **Plant Flag** | Objective achievements | ERC-721 flag NFT |
 | **Skill Card** | Skill collectibles | Skill card NFT |
 
 Each of these has a dedicated in-game minting flow with confirmation and success screens, so you always know exactly what you're committing on-chain.
@@ -57,7 +56,6 @@ The result is an NFT in your wallet that the game recognizes immediately, applyi
 Minting may require:
 
 - **Materials** (skin fragments) and/or **soft currency** (Gold/Gems) to craft the underlying item.
-- **ACP** as an on-chain sink for the mint itself.
 - Meeting any **mint conditions** (for example, hero-card requirements), which the game presents clearly before you commit.
 
 ## Roadmap: sponsored, batched minting

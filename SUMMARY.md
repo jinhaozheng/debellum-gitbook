@@ -26,4 +26,3 @@
 * [Minting & Crafting](nft-economy/minting.md)
 * [Marketplace](nft-economy/marketplace.md)
 * [Mystery Boxes](nft-economy/mystery-boxes.md)
-* [Play-to-Earn](nft-economy/play-to-earn.md)

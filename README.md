@@ -9,14 +9,14 @@ This guide is organized into two pillars:
 | Pillar | What it covers |
 |--------|----------------|
 | **Gameplay** | Game modes, heroes, skills, combat, items, Battle Royale, and the six progression systems that reward you for playing. |
-| **NFT & Web3 Economy** | Wallets, currencies, NFT assets, minting and crafting, the in-game marketplace, mystery boxes, and play-to-earn rewards. |
+| **NFT & Web3 Economy** | Wallets, currencies, NFT assets, minting and crafting, the in-game marketplace, and mystery boxes. |
 
 ## Why Debellum
 
 - **Skill-first.** Matches are decided by play, not by wallet size. Power progression is capped and competitive integrity comes first.
 - **True ownership.** Avatars, premium skins, hero cards, and other rare cosmetics can be minted as NFTs you can trade or hold.
 - **Multi-chain.** The economy spans several major blockchains, with a roadmap toward a low-cost, sponsored-gas layer for friction-free transactions.
-- **Earn by playing.** Match performance can feed into on-chain rewards and a token-based savings economy.
+- **Reward your collection.** Match progress and crafting feed your collection of owned, tradeable cosmetics and identity items.
 
 ## How to use this book
 

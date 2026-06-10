@@ -67,6 +67,5 @@ Progression feeds the ownership economy without compromising fairness:
 
 - **Medal Road** and matches grant **Hero Shards** and **Skin Fragments** — the materials for upgrades and the [Forge](../nft-economy/minting.md).
 - **Direct rewards** include **Gold** and **Bellum Points**, the soft currencies that fund boxes, crafting, and the [BP economy](../nft-economy/currencies.md).
-- Match performance can also feed **on-chain ACP rewards** — see [Play-to-Earn](../nft-economy/play-to-earn.md).
 
 Because all power progression is capped and server-authoritative, these rewards enrich your collection and identity without letting anyone buy their way to a competitive advantage.

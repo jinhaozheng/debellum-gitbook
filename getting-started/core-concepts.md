@@ -15,16 +15,15 @@ Not everything in Debellum lives on a blockchain — and that is by design. Putt
 
 The rule of thumb: **gameplay progress is off-chain; durable, tradeable value is on-chain.**
 
-## The three soft currencies + one token
+## The three soft currencies
 
 | Currency | Type | Earned from | Spent on |
 |----------|------|-------------|----------|
 | **Gold** | Off-chain | Matches, Medal Road, Season Pass | Star ranks, standard boxes, forging |
 | **Gems** | Off-chain | Season Pass, purchases | Premium/Legendary boxes, mythic forging |
 | **Bellum Points (BP)** | Off-chain | Betting wins, playing matches | Bellum Box, BP Shop |
-| **ACP** | **On-chain token** | Match rewards, airdrops, savings interest | Minting, crafting sinks, marketplace |
 
-ACP is the connective tissue of the on-chain economy. The soft currencies keep day-to-day play frictionless. See [Currencies](../nft-economy/currencies.md) for the full breakdown.
+The soft currencies keep day-to-day play frictionless, while on-chain NFT assets carry the durable, tradeable value. See [Currencies](../nft-economy/currencies.md) for the full breakdown.
 
 ## NFT asset classes
 
@@ -35,7 +34,6 @@ Debellum mints several distinct kinds of NFTs, each with its own role:
 | **Avatar** | ERC-721 | Player identity / profile picture |
 | **Skin** | ERC-1155 | Hero cosmetic appearance |
 | **Hero Card** | ERC-721 | Proof of hero ownership / unlock |
-| **Plant Flag** | ERC-721 | Objective / status cosmetic |
 | **Skill Card** | — | Collectible tied to hero skills |
 
 More detail in [NFT Assets](../nft-economy/nft-assets.md).
@@ -66,12 +64,9 @@ Combat itself runs on a **deterministic, lockstep simulation** shared by client 
 ```mermaid
 graph TD
     A[Play a Match] --> B[Off-chain progress: XP, Gold, Ranks]
-    A --> C[Match performance recorded]
-    C --> D[On-chain rewards: ACP]
     B --> E[Craft / Forge with materials]
     E --> F[Mint NFT: Skin / Hero Card / Avatar]
     F --> G[Trade on Marketplace]
-    D --> H[ACP Savings / Burn / Airdrops]
 ```
 
 With these concepts in mind, the [Gameplay](../gameplay/README.md) and [NFT & Web3 Economy](../nft-economy/README.md) sections will make full sense.

@@ -15,20 +15,18 @@ This split keeps matches fast and fair while giving players real ownership of th
 | NFT avatars & identity | XP, levels, mastery, star ranks |
 | Forged premium / signature skins | Gold, Gems, Bellum Points |
 | Hero cards (ownership proofs) | Hero shards, skin fragments |
-| Plant flags & rare cosmetics | Account-bound cosmetics & shop items |
+| Rare cosmetics with limited supply | Account-bound cosmetics & shop items |
 | NFT titles (achievement proofs) | — |
 
 ## The pieces of the economy
 
 ```mermaid
 graph TD
-    W[Connect Wallet] --> C[Currencies: ACP + Gold/Gems/BP]
+    W[Connect Wallet] --> C[Currencies: Gold/Gems/BP]
     C --> Mint[Mint & Craft NFTs]
     Box[Mystery Boxes] --> Mint
-    Mint --> Assets[NFT Assets: Avatars, Skins, Hero Cards, Flags]
+    Mint --> Assets[NFT Assets: Avatars, Skins, Hero Cards]
     Assets --> Market[Marketplace: OpenSea / Element / Immutable]
-    Play[Play Matches] --> Earn[Play-to-Earn: on-chain ACP rewards]
-    Earn --> C
 ```
 
 ## Sections in this part
@@ -36,12 +34,11 @@ graph TD
 | Page | What you'll learn |
 |------|-------------------|
 | [Wallet & Onboarding](wallet-and-onboarding.md) | Connecting a wallet, supported chains and providers. |
-| [Currencies](currencies.md) | ACP token plus Gold, Gems, and Bellum Points. |
+| [Currencies](currencies.md) | Gold, Gems, and Bellum Points. |
 | [NFT Assets](nft-assets.md) | The asset classes you can own and trade. |
 | [Minting & Crafting](minting.md) | Turning materials and items into NFTs. |
 | [Marketplace](marketplace.md) | Listing, buying, and selling across platforms. |
 | [Mystery Boxes](mystery-boxes.md) | Box tiers, drop rates, and the pity system. |
-| [Play-to-Earn](play-to-earn.md) | How playing translates into on-chain rewards. |
 
 ## Multi-chain at a glance
 

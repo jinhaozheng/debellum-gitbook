@@ -1,15 +1,14 @@
 # Currencies
 
-Debellum's economy runs on three off-chain soft currencies plus one on-chain token. Each has a clear purpose, and together they keep everyday play frictionless while anchoring lasting value on-chain.
+Debellum's economy runs on three off-chain soft currencies. Each has a clear purpose, and together they keep everyday play frictionless while the ownership layer anchors lasting value on-chain.
 
-## The four currencies
+## The three currencies
 
 | Currency | Type | Earned from | Spent on |
 |----------|------|-------------|----------|
 | **Gold** | Off-chain soft | Matches, Medal Road, Season Pass | Star ranks, Standard boxes, forging |
 | **Gems** | Off-chain soft | Season Pass milestones, purchases | Premium/Legendary boxes, mythic forging |
 | **Bellum Points (BP)** | Off-chain soft | Betting wins, playing matches | Bellum Box, BP Shop |
-| **ACP** | **On-chain token** | Match rewards, airdrops, savings interest | Minting, crafting sinks, marketplace |
 
 ## Gold
 
@@ -47,17 +46,9 @@ BP powers Debellum's betting and special-shop economy. You earn BP from betting 
 | BP Shop items | Variable |
 | Betting | Variable (50 – 1,000) |
 
-## ACP — the on-chain token
+## On-chain payment tokens
 
-ACP is Debellum's primary blockchain token and the connective tissue of the on-chain economy. Unlike the soft currencies, ACP is a real on-chain asset (an ERC-20-style token on Immutable). It is used for:
-
-- **Minting and crafting sinks** that create NFTs.
-- **Marketplace** activity.
-- A **savings pool** that accrues interest over time.
-- **Rewards and airdrops**, including hero-card sign-in rewards and influencer (KOL) airdrop programs.
-- A **burn mechanism** that removes ACP from circulation to support token health.
-
-Other tokens — including ETH, IMX, USDT, and FATE — are recognized for balances and payments across the supported chains.
+While the soft currencies above power day-to-day play, on-chain activity — buying and selling NFTs on the marketplace — settles in standard crypto tokens such as ETH, IMX, and USDT, depending on the chain and platform involved.
 
 ## Materials (not currencies, but close)
 
@@ -75,6 +66,6 @@ Duplicates you already own are converted into shards and Gold rather than wasted
 The currency design embodies Debellum's core principle:
 
 - **Gold, Gems, BP** stay **off-chain** — they change every match and must be instant and free.
-- **ACP** is **on-chain** — it carries durable, tradeable value and powers the ownership economy.
+- **NFT assets** are **on-chain** — they carry durable, tradeable value and power the ownership economy.
 
 This is why you can play, earn, and spend soft currency without ever touching a blockchain transaction, while still participating in a real, owned economy when you choose to.

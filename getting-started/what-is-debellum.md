@@ -22,9 +22,9 @@ Most of what you do — leveling up, earning ranks, spending soft currency — h
 - **Avatars** that represent your identity.
 - **Premium and signature skins** crafted from in-game materials.
 - **Hero cards** that prove ownership and unlock heroes.
-- **Plant flags** and other limited cosmetics.
+- Other rare, limited cosmetics.
 
-These can be traded on integrated marketplaces, held as collectibles, or used to demonstrate achievement. The in-game token, **ACP**, ties the economy together with savings, rewards, and crafting sinks.
+These can be traded on integrated marketplaces, held as collectibles, or used to demonstrate achievement.
 
 ## Designed to be fair
 
